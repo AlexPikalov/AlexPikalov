@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on:
-- [Rasmus](https://github.com/AlexPikalov/rasmus) - standalone WebAssembly engine.
-- [TeleMQ](https://github.com/telemq/telemq) - MQTT broker
+  - [Rasmus](https://github.com/AlexPikalov/rasmus) - standalone WebAssembly engine.
+  - [TeleMQ](https://github.com/telemq/telemq) - MQTT broker
 
 <!--
 **AlexPikalov/AlexPikalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
