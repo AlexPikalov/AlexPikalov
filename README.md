@@ -5,7 +5,7 @@
   - [TeleMQ](https://github.com/telemq/telemq) - MQTT broker.
  
 - Previous projects:
-  - [CDRS](https://github.com/AlexPikalov/cdrs) - first Rust-native Apache Cassandra client.
+  - [CDRS (Archived 💾)](https://github.com/AlexPikalov/cdrs) - first Rust-native Apache Cassandra client.
 
 <!--
 **AlexPikalov/AlexPikalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
