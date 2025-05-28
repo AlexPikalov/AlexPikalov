@@ -6,6 +6,10 @@
  
 - Previous projects:
   - [CDRS (Archived 💾)](https://github.com/AlexPikalov/cdrs) - first Rust-native Apache Cassandra client.
+ 
+- Other stuff:
+  - [MD5 Hash implementation](https://github.com/AlexPikalov/md5) in pure assembly
+  - [Naive Bayes Spam Classifier](https://github.com/AlexPikalov/bayes-spam-classifier)
 
 <!--
 **AlexPikalov/AlexPikalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
