@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on:
   - [Rasmus 🛠️](https://github.com/AlexPikalov/rasmus) - standalone WebAssembly engine.
-  - [TeleMQ 🛠️](https://github.com/telemq/telemq) - MQTT broker.
  
 - Previous projects:
   - [CDRS (Archived 💾)](https://github.com/AlexPikalov/cdrs) - first Rust-native Apache Cassandra client.
+  - [TeleMQ 🛠️](https://github.com/telemq/telemq) - MQTT broker.
  
 - Other stuff:
   - [MD5 Hash implementation](https://github.com/AlexPikalov/md5) in pure assembly (NASM)
