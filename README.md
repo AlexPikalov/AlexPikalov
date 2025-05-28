@@ -8,7 +8,7 @@
   - [CDRS (Archived 💾)](https://github.com/AlexPikalov/cdrs) - first Rust-native Apache Cassandra client.
  
 - Other stuff:
-  - [MD5 Hash implementation](https://github.com/AlexPikalov/md5) in pure assembly
+  - [MD5 Hash implementation](https://github.com/AlexPikalov/md5) in pure assembly (NASM)
   - [Naive Bayes Spam Classifier](https://github.com/AlexPikalov/bayes-spam-classifier)
 
 <!--
